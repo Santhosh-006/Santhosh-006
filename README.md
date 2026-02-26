@@ -1,3 +1,5 @@
+# Hey There, I am Santhosh
+
 # 💫 About Me:
 ⚡ I’m a pre-final year engineering student who recently shifted my goal to becoming a Software Developer <br>💻 I’m currently working on improving my Data Structures & Algorithms and building full-stack projects  <br>🤝 I’m looking to collaborate on open-source projects and real-world web applications  <br>🆘 I’m looking for help with mastering system design and writing clean, scalable code  <br>🌱 I’m currently learning advanced JavaScript, React, Node.js & backend development  <br>💬 Ask me about web development, coding basics, and engineering student life  <br>
 
